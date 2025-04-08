@@ -77,8 +77,13 @@ Whether you're a traveler looking for your next stay or a host wanting to list a
    ```
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/4e96d0e4-d77d-45da-ab13-29f5b2cadcf3)
+![image](https://github.com/user-attachments/assets/082d19a7-6fe6-489e-874f-c3e132acdd33)
+![image](https://github.com/user-attachments/assets/df0a56bb-6852-4521-be83-04efd014b4dc)
+![image](https://github.com/user-attachments/assets/47a95b6c-344a-416e-91eb-3bfc32c84fc5)
+![image](https://github.com/user-attachments/assets/516f8b23-7c0c-4212-8b11-283e4dfea70a)
+![image](https://github.com/user-attachments/assets/7b7eb94d-9217-4370-b509-78371c62b27e)
 
-> *(You can add screenshots here to showcase the interface, listings, reviews, etc.)*
 
 ## 🚀 Learnings & Takeaways
 
